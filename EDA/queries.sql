@@ -1,4 +1,3 @@
-
 -- Retrieve a list of unique countries from which customers originate
 
 SELECT DISTINCT country FROM gold.dim_customers;
